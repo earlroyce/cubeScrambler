@@ -2,6 +2,7 @@ h2, h3 { color: white; }
 
 html {
 	background: linear-gradient(to bottom left, #009933 0%, #00ff00 100%) no-repeat center center fixed;
+	background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #009933), color-stop(100%, #00ff00));
 	}
 
 button {
