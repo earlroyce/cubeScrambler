@@ -1,0 +1,25 @@
+h2, h3 { color: white; }
+
+html {
+	background: linear-gradient(to bottom left, #009933 0%, #00ff00 100%) no-repeat center center fixed;
+	}
+
+button {
+	background-color: red;
+	color: white;
+	font-size: 18px;
+	border: 2px solid red;
+	border-radius: 2px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#scrambleDisplay {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 25px;
+	color: yellow;
+}
+
+img {
+	position:relative;
+	width: 100px;
+}
